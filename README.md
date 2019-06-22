@@ -5,7 +5,7 @@ Created using Node Express
 You will need to set up some environment variables before the app will run properly.
 To integrate Okta's Identity Platform for user authentication, you'll first need to:
 * [Sign up for a free Okta Developer account](https://www.okta.com/developer/signup/)
-* You will get a URL similar to `https://dev-123456.oktapreview.com`.
+* You will get a URL similar to `https://dev-861173.oktapreview.com`.
   * Save this URL for later
   * You will also use this URL to login to your Okta account
 
@@ -33,12 +33,12 @@ ORG_URL=https://dev-861173.okta.com
 HOST_URL=http://localhost:3000
 APP_SECRET={Anything you want}
 CLIENT_ID=0oardp12uybr0rgQg356
-CLIENT_SECRET=dyKmB2OftHylGv97ooYoa-61eJVFe2TnW3TCKy24
+CLIENT_SECRET={Paste your secrete code here}
 REGISTRATION_TOKEN={Paste your registration token here}
 USER_PROFILE_TOKEN={Paste your user profile token here}
 ```
 
-Now run the application:
+Run the application:
 
 ```bash
 npm install
