@@ -1,4 +1,4 @@
-# Okta Application Project
+# Okta Final Assignment
 Created using Node Express
 
 ## Getting Started
