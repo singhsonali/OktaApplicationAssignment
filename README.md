@@ -13,7 +13,7 @@ You will need to create an application in Okta:
 
 * Log in to your Okta account, then navigate to **Applications** and click the **Add Application** button
 * Select **Web** and click **Next**
-* Give your application a name (e.g. "Simple Node Authentication")
+* Give your application a name (e.g. "Okta Final Assignment")
 * Change the **Base URI** to `http://localhost:3000` and the **Login redirect URI** to `http://localhost:3000/authorization-code/callback`, then click **Done**
 * Save your **client ID** and **client secret** for later
 
